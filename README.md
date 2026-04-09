@@ -1,5 +1,5 @@
 # Coding-Ninja
-# CodeNinjas – Coding Platform UI (React + Vite + Tailwind)
+## CodeNinjas – Coding Platform UI (React + Vite + Tailwind)
 
 An educational, **Coding Ninjas–style** coding platform UI built with **React, Vite, Tailwind CSS, and React Router**.
 
