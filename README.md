@@ -3,7 +3,7 @@
 
 An educational, **Coding Ninjas–style** coding platform UI built with **React, Vite, Tailwind CSS, and React Router**.
 
-> ⚠️ This is **not** the official Coding Ninjas website.  
+> This is **not** the official Coding Ninjas website.  
 > It’s a custom learning project inspired by the structure & feel of a modern coding-education platform.
 
 ---
