@@ -8,7 +8,7 @@ An educational, **Coding Ninjas–style** coding platform UI built with **React,
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Modern tech stack**
   - React 18 + Vite
